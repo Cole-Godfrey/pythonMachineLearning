@@ -4,4 +4,5 @@ This is code I am writing in a conda environment to learn machine learning in Py
 
 Here is what I've learned so far:
 - Linear Regression
+- K-Nearest Neighbors
 
